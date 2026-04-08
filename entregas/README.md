@@ -6,7 +6,7 @@
 - Juan Fernando Caicedo
 
 ## Perfiles de GitHub
-- **Juan Esteban Caicedo**: [JuanEsteban-prog](github.com/JuanEsteban-prog)
-- **Aaron Ureta**: [AaronUreta](github.com/AaronUreta)
-- **Diego Arellano**: [ArrellanoDiego](github.com/ArrellanoDiego)
-- **Juan Fernando Caicedo**: [juanfercaicedo](github.com/juanfercaicedo)
+- **Juan Esteban Caicedo**: [JuanEsteban-prog](https://github.com/JuanEsteban-prog)
+- **Aaron Ureta**: [AaronUreta](https://github.com/AaronUreta)
+- **Diego Arellano**: [ArrellanoDiego](https://github.com/ArrellanoDiego)
+- **Juan Fernando Caicedo**: [juanfercaicedo](https://github.com/juanfercaicedo)
