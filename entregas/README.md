@@ -8,7 +8,7 @@
 ## Perfiles de GitHub
 - **Juan Esteban Caicedo**: [JuanEsteban-prog](https://github.com/JuanEsteban-prog)
 - **Aaron Ureta**: [AaronUreta](https://github.com/AaronUreta)
-- **Diego Arellano**: [ArrellanoDiego](https://github.com/ArrellanoDiego)
+- **Diego Arellano**: [ArellanoDiego](https://github.com/ArellanoDiego)
 - **Juan Fernando Caicedo**: [juanfercaicedo](https://github.com/juanfercaicedo)
 
 ## Archivos
